@@ -1,5 +1,6 @@
 #支持私库
 docker.io/langgenius/dify-web:0.14.1
 docker.io/nginx:latest
+docker.io/postgres:15-alpine
 
 
