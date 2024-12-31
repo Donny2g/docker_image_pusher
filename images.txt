@@ -2,5 +2,10 @@
 docker.io/langgenius/dify-web:0.14.1
 docker.io/nginx:latest
 docker.io/postgres:15-alpine
+docker.io/langgenius/dify-api:0.14.1
+docker.io/langgenius/dify-sandbox:0.2.10
+docker.io/certbot/certbot
+docker.io/redis:6-alpine
+
 
 
