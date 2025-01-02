@@ -6,6 +6,6 @@ docker.io/langgenius/dify-api:0.14.1
 docker.io/langgenius/dify-sandbox:0.2.10
 docker.io/certbot/certbot
 docker.io/redis:6-alpine
-
+docker.io/ubuntu/squid:latest
 
 
