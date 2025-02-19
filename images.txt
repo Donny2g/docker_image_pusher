@@ -8,5 +8,6 @@ docker.io/certbot/certbot
 docker.io/redis:6-alpine
 docker.io/ubuntu/squid:latest
 docker.io/semitechnologies/weaviate:1.19.0
+dockerproxy.net/elestio/ubuntu-desktop:latest
 
 
