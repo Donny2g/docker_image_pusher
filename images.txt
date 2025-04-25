@@ -1,13 +1,3 @@
 #支持私库
-docker.io/langgenius/dify-web:0.14.1
-docker.io/nginx:latest
-docker.io/postgres:15-alpine
-docker.io/langgenius/dify-api:0.14.1
-docker.io/langgenius/dify-sandbox:0.2.10
-docker.io/certbot/certbot
-docker.io/redis:6-alpine
-docker.io/ubuntu/squid:latest
-docker.io/semitechnologies/weaviate:1.19.0
-docker.io/continuumio/anaconda3:2023.07
-
+docker.io/continuumio/anaconda3:2023.07-1
 
