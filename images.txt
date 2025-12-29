@@ -1,2 +1,3 @@
 #支持私库
 langgenius/dify-sandbox:0.2.12
+busybox:latest
